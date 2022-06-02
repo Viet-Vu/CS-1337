@@ -1,0 +1,3 @@
+C:/Users/VietJ/CLionProjects/2.1_PointersConstants/cmake-build-debug/CMakeFiles/2_1_PointersConstants.dir
+C:/Users/VietJ/CLionProjects/2.1_PointersConstants/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VietJ/CLionProjects/2.1_PointersConstants/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+4	1961	6705864255946174	CMakeFiles/TransactionManagement.dir/main.cpp.obj	49339075c4159d6f
+1961	2179	6705864258045629	TransactionManagement.exe	6f2b9e58b28aa40
+6	2091	6705863720356886	CMakeFiles/TransactionManagement.dir/Account.cpp.obj	82ba4804ab091516
+17	304	6709082534660136	CMakeFiles/TransactionManagement.dir/Account.cpp.obj	a6a669b6c1b2959f
+1	498	6709082536589011	CMakeFiles/TransactionManagement.dir/main.cpp.obj	ccf9c3eebc47ca64
+499	639	6709082537981929	TransactionManagement.exe	b17d164a97e673be
+2	428	6709085238397615	CMakeFiles/TransactionManagement.dir/main.cpp.obj	ccf9c3eebc47ca64
+428	571	6709085239853730	TransactionManagement.exe	b17d164a97e673be

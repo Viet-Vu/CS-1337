@@ -1,0 +1,8 @@
+# ninja log v5
+1498	1838	6727067904287201	AccountMayhem.exe	46f6923b1daf3bec
+28	702	6727172410733720	CMakeFiles/AccountMayhemWinnersEdition.dir/RegularAccount.cpp.obj	8f479fc416c578b7
+32	706	6727172410753675	CMakeFiles/AccountMayhemWinnersEdition.dir/Date.cpp.obj	8d47c85defd96b70
+20	713	6727172410823484	CMakeFiles/AccountMayhemWinnersEdition.dir/PremiumAccount.cpp.obj	751061adac1f1220
+24	823	6727172411950621	CMakeFiles/AccountMayhemWinnersEdition.dir/Account.cpp.obj	c91825996d4650c0
+0	829	6727172412030336	CMakeFiles/AccountMayhemWinnersEdition.dir/main.cpp.obj	de2d53e493d357c2
+830	1010	6727172413789974	AccountMayhemWinnersEdition.exe	5ffa2a61add6fb0c

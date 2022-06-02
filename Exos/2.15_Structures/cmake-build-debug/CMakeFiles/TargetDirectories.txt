@@ -1,0 +1,3 @@
+C:/Users/VietJ/CLionProjects/2.15_Structures/cmake-build-debug/CMakeFiles/2_15_Structures.dir
+C:/Users/VietJ/CLionProjects/2.15_Structures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VietJ/CLionProjects/2.15_Structures/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/VietJ/CLionProjects/2.10_CStrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/VietJ/CLionProjects/2.10_CStrings/cmake-build-debug/CMakeFiles/2_10_CStrings.dir
+C:/Users/VietJ/CLionProjects/2.10_CStrings/cmake-build-debug/CMakeFiles/edit_cache.dir

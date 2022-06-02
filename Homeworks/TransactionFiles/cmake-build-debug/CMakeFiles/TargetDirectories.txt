@@ -1,0 +1,3 @@
+C:/Users/VietJ/CLionProjects/TransactionFiles/cmake-build-debug/CMakeFiles/TransactionFiles.dir
+C:/Users/VietJ/CLionProjects/TransactionFiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VietJ/CLionProjects/TransactionFiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

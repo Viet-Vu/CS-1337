@@ -1,0 +1,7 @@
+# ninja log v5
+28	625	6678797450562357	CMakeFiles/3_1_separate.dir/Student.cpp.obj	b7deaf60b0cdac99
+1	690	6678797451245078	CMakeFiles/3_1_separate.dir/main.cpp.obj	1118e59029c6eb52
+690	962	6678797453887565	3_1_separate.exe	4ec6cca2c0d1b8e1
+12	348	6700471386116644	CMakeFiles/3_1_separate.dir/Student.cpp.obj	dadce3586f2d4b5c
+1	350	6700471386116644	CMakeFiles/3_1_separate.dir/main.cpp.obj	bb0c8cc20514226e
+350	476	6700471387403047	3_1_separate.exe	e23aeb07602a32b7

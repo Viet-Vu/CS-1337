@@ -1,0 +1,3 @@
+C:/Users/VietJ/CLionProjects/InventoryManagement/cmake-build-debug/CMakeFiles/InventoryManagement.dir
+C:/Users/VietJ/CLionProjects/InventoryManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VietJ/CLionProjects/InventoryManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir

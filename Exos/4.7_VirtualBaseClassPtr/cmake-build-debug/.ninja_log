@@ -1,0 +1,7 @@
+# ninja log v5
+0	301	6710707590140014	CMakeFiles/4_7_VirtualBaseClassPtr.dir/main.cpp.obj	b9f63fe665801185
+303	415	6710707591251161	4_7_VirtualBaseClassPtr.exe	91360ac22e0699cb
+2	303	6710710372309792	CMakeFiles/4_7_VirtualBaseClassPtr.dir/main.cpp.obj	b9f63fe665801185
+303	398	6710710373226773	4_7_VirtualBaseClassPtr.exe	91360ac22e0699cb
+2	313	6710717864589872	CMakeFiles/4_7_VirtualBaseClassPtr.dir/main.cpp.obj	b9f63fe665801185
+313	416	6710717865652206	4_7_VirtualBaseClassPtr.exe	91360ac22e0699cb

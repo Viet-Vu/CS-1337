@@ -1,0 +1,18 @@
+# ninja log v5
+30	4195	6727062596426602	CMakeFiles/AccountMayhem.dir/RegularAccount.cpp.obj	426ca84cf7908fc1
+30	1837	6727066727084370	CMakeFiles/AccountMayhem.dir/main.cpp.obj	cda8d2f3f03ebc8f
+1498	1838	6727067904287201	AccountMayhem.exe	46f6923b1daf3bec
+34	4100	6727062593196321	CMakeFiles/AccountMayhem.dir/PremiumAccount.cpp.obj	b5c50d3552361949
+39	4054	6727062592968374	CMakeFiles/AccountMayhem.dir/Date.cpp.obj	40e77371bada9b90
+4	1497	6727067900993484	CMakeFiles/AccountMayhem.dir/Account.cpp.obj	8ae11e86acbe8776
+19	438	6727106757722659	CMakeFiles/AccountMayhem.dir/RegularAccount.cpp.obj	21d74c9d0ebde274
+17	440	6727106757722659	CMakeFiles/AccountMayhem.dir/PremiumAccount.cpp.obj	f5be5724e442af77
+14	441	6727106757762260	CMakeFiles/AccountMayhem.dir/Date.cpp.obj	d2b54d18a58401b9
+12	549	6727106758859290	CMakeFiles/AccountMayhem.dir/main.cpp.obj	ae0da58f07bae4ff
+1	551	6727106758879239	CMakeFiles/AccountMayhem.dir/Account.cpp.obj	b685f84717614f52
+551	673	6727106760076041	AccountMayhem.exe	3afbcba732593b1a
+17	383	6727109056901282	CMakeFiles/AccountMayhem.dir/RegularAccount.cpp.obj	21d74c9d0ebde274
+20	390	6727109056991364	CMakeFiles/AccountMayhem.dir/PremiumAccount.cpp.obj	f5be5724e442af77
+2	465	6727109057739084	CMakeFiles/AccountMayhem.dir/Account.cpp.obj	b685f84717614f52
+14	474	6727109057838790	CMakeFiles/AccountMayhem.dir/main.cpp.obj	ae0da58f07bae4ff
+474	578	6727109058851466	AccountMayhem.exe	3afbcba732593b1a

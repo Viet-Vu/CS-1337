@@ -1,0 +1,3 @@
+C:/Users/VietJ/CLionProjects/4.7_VirtualBaseClassPtr/cmake-build-debug/CMakeFiles/4_7_VirtualBaseClassPtr.dir
+C:/Users/VietJ/CLionProjects/4.7_VirtualBaseClassPtr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VietJ/CLionProjects/4.7_VirtualBaseClassPtr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

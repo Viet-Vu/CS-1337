@@ -1,0 +1,3 @@
+C:/Users/VietJ/CLionProjects/2.11_CppStrings/cmake-build-debug/CMakeFiles/2_11_CppStrings.dir
+C:/Users/VietJ/CLionProjects/2.11_CppStrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VietJ/CLionProjects/2.11_CppStrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

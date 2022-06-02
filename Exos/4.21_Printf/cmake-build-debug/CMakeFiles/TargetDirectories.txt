@@ -1,0 +1,3 @@
+C:/Users/VietJ/CLionProjects/4.21_Printf/cmake-build-debug/CMakeFiles/4_21_Printf.dir
+C:/Users/VietJ/CLionProjects/4.21_Printf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VietJ/CLionProjects/4.21_Printf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

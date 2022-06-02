@@ -1,0 +1,5 @@
+# ninja log v5
+37	532	6730675455895350	CMakeFiles/Shapes.dir/Circle.cpp.obj	467c732489c6aeaf
+34	534	6730675455895350	CMakeFiles/Shapes.dir/Rectangle.cpp.obj	5929e490b131aaaf
+0	536	6730675455935246	CMakeFiles/Shapes.dir/main.cpp.obj	f218f2bdee061738
+537	774	6730675458302821	Shapes.exe	3c20ce4c50213b0

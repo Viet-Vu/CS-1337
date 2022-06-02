@@ -1,0 +1,6 @@
+#ifndef ACCOUNTMAYHEM_COMMON_H
+#define ACCOUNTMAYHEM_COMMON_H
+
+#define EXTRA_CREDIT
+
+#endif
